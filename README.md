@@ -18,6 +18,7 @@
 
 ### Запуск в psql:
 psql -U morty -d scooter_rent -f sql/task_1.sql
+
 psql -U morty -d scooter_rent -f sql/task_2.sql
 
 
